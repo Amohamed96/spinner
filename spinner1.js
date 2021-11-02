@@ -1,14 +1,4 @@
-// const sentence = "|/-\\|";
-// let t = 50
-// e = sentence.length * t;
-// for (let i = 0; i < sentence.length; i++){
 
-//   setTimeout(() => {
-//     process.stdout.write(sentence[i]);
-//   }, t);
-// t += 500;
-
-// }
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 100);
